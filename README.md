@@ -28,3 +28,10 @@ Utilizo meu github para compartilhar meu conhecimento, desenvolvimento e projeto
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### Contato - Contact 👍
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos-730a74199/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos-730a74199/" alt="LinkedIn"/></a>
+</p>
