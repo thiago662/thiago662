@@ -1,0 +1,44 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 300px;
+    padding: 16px;
+    margin: 0px 0px 20px 0px;
+    border: 1px solid #868e96;
+    border-radius: 5px;
+}
+
+.card-title {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.card-subtitle {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.card-text {
+    margin: 0px 0px 10px 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.button {
+    margin: 0px 0px 10px 0px;
+    padding: 5px 10px;
+    border: 1px solid #868e96;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.button:hover {
+    background-color: #343a40;
+}
